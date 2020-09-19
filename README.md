@@ -1,2 +1,3 @@
-# Manju-ecommerece
-source code of the ecommerece shopping application
+# phpmysql-app
+An Ecoomm app built on PHP &amp; MySQL  
+
